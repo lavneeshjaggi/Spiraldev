@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Spiraldev/static/css/main.748f3d47.css",
-    "main.js": "/Spiraldev/static/js/main.3b4ff346.js",
+    "main.css": "/Spiraldev/static/css/main.93b475bc.css",
+    "main.js": "/Spiraldev/static/js/main.1e15d5ed.js",
     "index.html": "/Spiraldev/index.html",
-    "main.748f3d47.css.map": "/Spiraldev/static/css/main.748f3d47.css.map",
-    "main.3b4ff346.js.map": "/Spiraldev/static/js/main.3b4ff346.js.map"
+    "main.93b475bc.css.map": "/Spiraldev/static/css/main.93b475bc.css.map",
+    "main.1e15d5ed.js.map": "/Spiraldev/static/js/main.1e15d5ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.748f3d47.css",
-    "static/js/main.3b4ff346.js"
+    "static/css/main.93b475bc.css",
+    "static/js/main.1e15d5ed.js"
   ]
 }
